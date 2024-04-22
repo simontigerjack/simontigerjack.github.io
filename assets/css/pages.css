@@ -14,7 +14,7 @@ footer, header, hgroup, menu, nav, section {
 }
 @media only screen and (max-width: 600px) {
  p.Bullet-label-purple {
-    font-size: 8px !important;
+    font-size: 10px !important;
   }
 }
 body { line-height:1; letter-spacing:-0.25px; overscroll-behavior:contain;}
