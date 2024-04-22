@@ -12,6 +12,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display:block;
 }
+@media only screen and (max-width: 600px) {
+ p.Bullet-label-purple {
+    font-size: 7px;
+  }
+}
 body { line-height:1; letter-spacing:-0.25px; overscroll-behavior:contain;}
 #container:not([style*="zoom"]) { -webkit-text-size-adjust:none;}
 table { border-collapse:collapse; border-spacing:0; }
