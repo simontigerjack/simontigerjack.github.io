@@ -1773,8 +1773,7 @@ span.Section-heading-extrabold-italic- {
 span.None {
 }
 
-}
-@media only screen and (max-width: 600px) {
+@media (max-width: 600px) {
  p.Bullet-label-purple {
     font-size: 6px;
   }
