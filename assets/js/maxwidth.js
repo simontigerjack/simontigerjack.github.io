@@ -1,0 +1,1 @@
+maxScaleWidth = 1550;
